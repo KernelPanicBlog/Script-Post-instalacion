@@ -1,12 +1,20 @@
 # Manjaro Post Installation Script (MPIS)
 
-This script allows to configure the system, install some applications for a regular work day thinked in developers, gamers, musicians and more...
+This script allows you to configure the system, install some applications for a regular work day thought in developers, gamers, musicians and more...
 
 ### Attention
 
-This script is in testing phase and we don't are responsable for the usage.
+This script is in testing phase and we don't are responsable for the use.
 
 If you find a bug or an error please report it as an [issue](https://github.com/KernelPanicBlog/Script-Post-instalacion/issues/).
+
+### Installation
+
+- 1) Clone the git repository: `git clone https://github.com/KernelPanicBlog/Script-Post-instalacion.git`
+- 2) Access to the cloned directory:   `cd Script-Post-Instalacion`
+- 3) Execute the script: `./mpis`
+
+Optionally you can install the script in your system running `makepkg -sic` in the cloned repository folder.
 
 ### Contact
 
@@ -14,11 +22,3 @@ If you find a bug or an error please report it as an [issue](https://github.com/
 - Twitter: @[KernelPanicBlog](https://twitter.com/KernelPanicBlog)
 - Facebook: @[KernelPanicBlog](https://www.facebook.com/pages/Kernel-Panic-Blog/)
 - Telegram Group (Spanish):  @[ManjaroLinuxEs](https://telegram.me/manjarolinuxes)
-
-### How to install
-
-- 1) Clone the git repository: `git clone https://github.com/KernelPanicBlog/Script-Post-instalacion.git`
-- 2) Access to the cloned directory:   `cd Script-Post-Instalacion`
-- 3) Execute the script: `./mpis`
-
-Optionally you can install the script in your system running `makepkg -sic` in the cloned repository folder.
